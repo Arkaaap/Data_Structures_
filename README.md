@@ -5,4 +5,11 @@ Problem-Solving Using C
 # STACK
 # QU_EUE
 
-![Screenshot (61)](https://github.com/Arkaaap/Data_Structures_/assets/99315231/213fcc2c-726d-452d-9d3a-e35ed8a7c3c2)
+
+
+
+
+
+
+
+![Screenshot (73)](https://github.com/Arkaaap/Data_Structures_/assets/99315231/ff480c3a-5c06-4ee2-bfeb-fbdaeb5309fa)
