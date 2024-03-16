@@ -12,4 +12,4 @@ Problem-Solving Using C
 
 
 
-![Screenshot (73)](https://github.com/Arkaaap/Data_Structures_/assets/99315231/ff480c3a-5c06-4ee2-bfeb-fbdaeb5309fa)
+ ![Screenshot (61)](https://github.com/Arkaaap/Data_Structures_/assets/99315231/429f6401-46f2-4018-a566-99145742c99b)
