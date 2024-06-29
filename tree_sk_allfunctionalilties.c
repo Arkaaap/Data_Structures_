@@ -131,6 +131,28 @@ struct node *bst (struct node *root,int x)
 }
 
 
+
+int height (struct node *root)
+{
+    if (root== NULL)
+    {
+        return 0 ;
+    }
+    
+    else {
+        int lheight = height(root->left);
+        int rheight = height(root->right);
+        if (lheight>rheight)
+        {
+            return lheight+1;
+        }
+        else {
+            return rheight+1;
+        }
+    }
+}
+
+
 int main (void)
 {
     struct node *s = createnode(40);
@@ -141,8 +163,10 @@ int main (void)
     s->right->left = createnode(45);
     s->right->right = createnode(60);
     preorder(s);
+    inorder (s);
     int x;
     printf ("Enter the x:");
     scanf ("%d",&x);
     s = bst(s,x);
+    printf ("%d\t",height(s));
 }
