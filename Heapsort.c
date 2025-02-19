@@ -1,3 +1,5 @@
+//HEAP SORT AUTHOR @Arkaaap TIME COMPLEXITY IS O(nlogn) N TIME COMPARISONS AND LOGN TIME OR THE HEIGHT OF THE TREE TIME . SPACE IS O(n).
+
 #include <stdio.h>
 #include <stdlib.h>
 
