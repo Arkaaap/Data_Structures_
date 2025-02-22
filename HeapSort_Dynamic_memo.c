@@ -1,3 +1,7 @@
+/* AUTHOR ARKAAAP HeapSort Using Dynamic Memory Allocation and Made a Sap Function Rest Of The code and Logic are sameeeeeee date 2/22/2025*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
