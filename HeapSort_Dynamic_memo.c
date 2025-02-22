@@ -1,4 +1,4 @@
-/* AUTHOR ARKAAAP HeapSort Using Dynamic Memory Allocation and Made a Sap Function Rest Of The code and Logic are sameeeeeee date 2/22/2025*/
+/* AUTHOR ARKAAAP HeapSort Using Dynamic Memory Allocation and Made a Sawp Function Rest Of The code and Logic are sameeeeeee date 2/22/2025*/
 
 
 
