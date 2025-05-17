@@ -1,3 +1,14 @@
+/*AUTHORRR ARKAAP (WILL TURN IT INTO COOL CLI PROJECT WITH SOME BANNER STUFFS && gotta give a menu driven program */
+
+
+
+
+
+/*Merge sort , heap sort , selection sort ,bubble,insertion, linear search , binary search ,Min,Max (DAC) tsp , dijkstra */
+
+
+
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <limits.h>
