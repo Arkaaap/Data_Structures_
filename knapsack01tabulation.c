@@ -1,3 +1,11 @@
+/*DP  = parent problem recursion , recursion + store + tabulation 
+recursion  = base case (think of the valid possible i/p) + choice diagram 
+recursion + store  = memoization 
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 int t[100][1001];
